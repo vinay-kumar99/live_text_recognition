@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a79250cb104260fe99cc9d80ebd56491/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/39769b1ad36aa6dc6d8d3e59f729deb8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3a3ecb903e4b83213899d5f4b3c0c13c/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/0a3fbbc85bfc40e540035d9c3a738552/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/98119b8f575c4f13ebee77459b993e1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1f63158c1d91422c74805d9f56c81d1d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/21650c7307b63164a4993e60486acfe8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/bf78b5e9ee5027c282e0ba38fb41369f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/09a5c4a5ee848915a5993003015ac7e1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/86c5322ee072719b3ee421b120d5ebac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2147590986b231bb3f327052d665f487/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/19d28f208e7fda6ad3cbca1c9f3adb06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/0b39119cec03de8b3076fe3d6eac3819/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/53bb99af9de9df8188cc2936a5e3dd04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/16f95b681b4c91c243d6575331463fb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3220fe227b2086bd7dffcdbbb3a5cbfc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/29f701045ce8b64f83a87c3848cef814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/deac12b081a567dd0aa40210e33ad16f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b45929469e2aec63ebd0d5d665ce7ae2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a8d0c4fdb35ed10b8c912f52b07b27a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/c106d3375d1a7fc60eab6d1ef98871d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/38bacbac371811a5088ab66b96a9600e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/48e68a399f2cc70fbcdabd81749e8327/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a818cf6d266b8dbeeefff1670d623a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/d2ed0ba16cb8a57a822204dd90ec9406/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2ca71761b79edf20152c143dda17a868/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b7af454302a7f26a9a993283b5241e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7693d5583dbc46c06d3fb99bfb394069/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/8d720ed83049ae4513a21ea048c1fe43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/05d485196824e07b71e7c35703597df4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b7fb978c83a08f013e2b1c98ed76ea61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3428ab82d9c8c45c6efbe095428ba9ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7d6a55a0540239c2f232ee0a063287ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/071063bd7a3f17c78efdde7ce9f647ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2e48511ff42eabea782b8f2082653359/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1ef6a57b15453816da35213c7d69539a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/91f960ca5a95f368d16ff7e7a56f89c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/ceb587b66f87f15996b77b22965fd261/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:10:5-33:19
+MERGED from [com.google.android.material:material:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/39769b1ad36aa6dc6d8d3e59f729deb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/39769b1ad36aa6dc6d8d3e59f729deb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3a3ecb903e4b83213899d5f4b3c0c13c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3a3ecb903e4b83213899d5f4b3c0c13c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1f63158c1d91422c74805d9f56c81d1d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1f63158c1d91422c74805d9f56c81d1d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/21650c7307b63164a4993e60486acfe8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/21650c7307b63164a4993e60486acfe8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/09a5c4a5ee848915a5993003015ac7e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/09a5c4a5ee848915a5993003015ac7e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/86c5322ee072719b3ee421b120d5ebac/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/86c5322ee072719b3ee421b120d5ebac/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2ca71761b79edf20152c143dda17a868/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2ca71761b79edf20152c143dda17a868/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7693d5583dbc46c06d3fb99bfb394069/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7693d5583dbc46c06d3fb99bfb394069/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2ca71761b79edf20152c143dda17a868/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:25:9-32:20
+	android:label
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:28:25-66
+action#android.intent.action.VIEW
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a79250cb104260fe99cc9d80ebd56491/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a79250cb104260fe99cc9d80ebd56491/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/39769b1ad36aa6dc6d8d3e59f729deb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/39769b1ad36aa6dc6d8d3e59f729deb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3a3ecb903e4b83213899d5f4b3c0c13c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3a3ecb903e4b83213899d5f4b3c0c13c/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/0a3fbbc85bfc40e540035d9c3a738552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/0a3fbbc85bfc40e540035d9c3a738552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/98119b8f575c4f13ebee77459b993e1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/98119b8f575c4f13ebee77459b993e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1f63158c1d91422c74805d9f56c81d1d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1f63158c1d91422c74805d9f56c81d1d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/21650c7307b63164a4993e60486acfe8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/21650c7307b63164a4993e60486acfe8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/bf78b5e9ee5027c282e0ba38fb41369f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/bf78b5e9ee5027c282e0ba38fb41369f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/09a5c4a5ee848915a5993003015ac7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/09a5c4a5ee848915a5993003015ac7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/86c5322ee072719b3ee421b120d5ebac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/86c5322ee072719b3ee421b120d5ebac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/17d93c6dc23219e6b19f8b815bc6d21b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2147590986b231bb3f327052d665f487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2147590986b231bb3f327052d665f487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/19d28f208e7fda6ad3cbca1c9f3adb06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/19d28f208e7fda6ad3cbca1c9f3adb06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/0b39119cec03de8b3076fe3d6eac3819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/0b39119cec03de8b3076fe3d6eac3819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/53bb99af9de9df8188cc2936a5e3dd04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/53bb99af9de9df8188cc2936a5e3dd04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/16f95b681b4c91c243d6575331463fb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/16f95b681b4c91c243d6575331463fb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3220fe227b2086bd7dffcdbbb3a5cbfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3220fe227b2086bd7dffcdbbb3a5cbfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/29f701045ce8b64f83a87c3848cef814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/29f701045ce8b64f83a87c3848cef814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/deac12b081a567dd0aa40210e33ad16f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/deac12b081a567dd0aa40210e33ad16f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b45929469e2aec63ebd0d5d665ce7ae2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b45929469e2aec63ebd0d5d665ce7ae2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a8d0c4fdb35ed10b8c912f52b07b27a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a8d0c4fdb35ed10b8c912f52b07b27a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/c106d3375d1a7fc60eab6d1ef98871d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/c106d3375d1a7fc60eab6d1ef98871d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/38bacbac371811a5088ab66b96a9600e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/38bacbac371811a5088ab66b96a9600e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/48e68a399f2cc70fbcdabd81749e8327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/48e68a399f2cc70fbcdabd81749e8327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a818cf6d266b8dbeeefff1670d623a1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a818cf6d266b8dbeeefff1670d623a1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/d2ed0ba16cb8a57a822204dd90ec9406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/d2ed0ba16cb8a57a822204dd90ec9406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2ca71761b79edf20152c143dda17a868/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2ca71761b79edf20152c143dda17a868/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b7af454302a7f26a9a993283b5241e1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b7af454302a7f26a9a993283b5241e1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7693d5583dbc46c06d3fb99bfb394069/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7693d5583dbc46c06d3fb99bfb394069/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/8d720ed83049ae4513a21ea048c1fe43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/8d720ed83049ae4513a21ea048c1fe43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/05d485196824e07b71e7c35703597df4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/05d485196824e07b71e7c35703597df4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b7fb978c83a08f013e2b1c98ed76ea61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/b7fb978c83a08f013e2b1c98ed76ea61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3428ab82d9c8c45c6efbe095428ba9ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/3428ab82d9c8c45c6efbe095428ba9ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7d6a55a0540239c2f232ee0a063287ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/7d6a55a0540239c2f232ee0a063287ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/071063bd7a3f17c78efdde7ce9f647ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/071063bd7a3f17c78efdde7ce9f647ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2e48511ff42eabea782b8f2082653359/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/2e48511ff42eabea782b8f2082653359/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1ef6a57b15453816da35213c7d69539a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/1ef6a57b15453816da35213c7d69539a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/91f960ca5a95f368d16ff7e7a56f89c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/91f960ca5a95f368d16ff7e7a56f89c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/ceb587b66f87f15996b77b22965fd261/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/ceb587b66f87f15996b77b22965fd261/AndroidManifest.xml:20:5-44
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/AndroidStudioProjects/ocr-reader-start/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vinay/.gradle/caches/transforms-2/files-2.1/a145c7e86d26c04e39d5596ccc51ae34/AndroidManifest.xml:24:13-79
